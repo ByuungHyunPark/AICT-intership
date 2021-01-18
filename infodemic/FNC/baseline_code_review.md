@@ -215,9 +215,3 @@ ex)
   - +0.25 for each correct `unrelated`
   - +0.25 for each correct related (label is any of `agree`, - `disagree`, `discuss`)
   - +0.75 for each correct agree, disagree, discuss
-
-
-  동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나만세
-
-- 동해물과 백두산이
-- 백두산이 마르고
