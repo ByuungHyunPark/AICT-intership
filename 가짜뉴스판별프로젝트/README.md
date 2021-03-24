@@ -6,6 +6,7 @@
 - 2019~2020 네이버뉴스 정치, 경제, 사회 분야의 기사를 크롤링
 - 약 79만건의 뉴스기사 수집
 - 코드 참고 링크 : https://github.com/lumyjuwon/KoreaNewsCrawler
+
 __naver news Results__<br>
 ![naver-news](./img/naver-news.png)
 
